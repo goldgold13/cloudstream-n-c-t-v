@@ -4,7 +4,7 @@
   "manifestVersion": 1,
   "pluginVersion": 1,
   "iconUrl": "https://raw.githubusercontent.com/goldgold13/cloudstream-n-c-t-v/main/icon.png",
-  "fileName": "NangCucProvider",
+  "fileName": "NangCucProvider.kt",
   "isCompiled": false,
   "lang": "kotlin",
   "tvTypes": ["movie"],
