@@ -1,0 +1,15 @@
+{
+  "name": "Nắng Cực TV",
+  "description": "Phim người lớn từ nangcuc.dev - JAV, Âu Mỹ, cập nhật hàng ngày",
+  "manifestVersion": 1,
+  "pluginVersion": 1,
+  "iconUrl": "https://raw.githubusercontent.com/goldgold13/cloudstream-n-c-t-v/main/icon.png",
+  "fileName": "NangCucProvider",
+  "isCompiled": false,
+  "lang": "kotlin",
+  "tvTypes": ["movie"],
+  "author": "Bạn",
+  "id": "nangcuc.provider",
+  "baseUrl": "https://nangcuc.dev",
+  "versionName": "1.0.0"
+}
